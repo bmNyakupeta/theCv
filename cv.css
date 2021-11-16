@@ -1,0 +1,102 @@
+div{
+    border-radius: 5px;
+}
+
+#header{
+    position: top;
+    z-index: 1;
+    height: 40px;
+    width: 80%;
+    margin-top: 10px;
+    background-color: blue;
+    text-decoration-color: lawngreen;
+}
+
+#name{
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+}
+
+#email{
+
+    float: right;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: darkred;
+}
+
+#contact{
+    
+    float: right;
+    margin-left: 20px;
+    font-size: 16px;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-color: deeppink;
+}
+
+a.hover{
+    font-weight: bold;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+#job-responsibilities{
+    padding: 1px;
+}
+
+#job-title{
+    font-weight: bold;
+}
+
+table{
+    border: 1px dashed black;
+}
+
+td{
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+
+#course-name{
+    font-weight: bold;
+}
+
+#company-name{
+    height: 2px;
+    text-decoration: underline;
+}
+
+#job-title{
+    height: 5px;
+}
+
+#job-duration{
+    float: right;
+}
+
+#heading{
+    font-weight: bold;
+}
+
+body{
+    background-color: cyan;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+}
